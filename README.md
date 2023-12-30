@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>👋 Hello, I'm hatim</h1>
+
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/htouil" alt="htouil's 42 stats" /></a>
